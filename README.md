@@ -2,4 +2,4 @@
 Just another repository
 
 Hello humans,
-i am Bitburg and i love bear.
+this is my first project.
