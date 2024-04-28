@@ -2,4 +2,4 @@
 Just another repository
 
 Hello,
-this is my first project.
+this is my project.
